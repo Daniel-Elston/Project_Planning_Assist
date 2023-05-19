@@ -1,0 +1,31 @@
+# Copy to the top of the Virtual_Environment.txt
+project_dir = f'C:/Users/delst/OneDrive/Desktop/Code/Workspace/{project_name}'
+
+import sys
+sys.path.append(project_dir)
+
+#######################################################################################################
+### DATA
+
+
+
+#######################################################################################################
+### LIBRARIES
+from Libraries.dependencies import *
+
+
+
+#######################################################################################################
+### UTILS
+from Utils.pkl_integration import file_pipeline
+
+from Utils.data_integration import SheetMerger
+
+
+#######################################################################################################
+### MODULES
+
+
+
+#######################################################################################################
+### SCRIPTS
