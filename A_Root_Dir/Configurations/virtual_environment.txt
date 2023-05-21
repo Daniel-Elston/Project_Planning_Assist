@@ -1,4 +1,5 @@
 # Copy to the top of the Virtual_Environment.txt
+project_name = 'Project_Planning_Assistant'
 project_dir = f'C:/Users/delst/OneDrive/Desktop/Code/Workspace/{project_name}'
 
 import sys
