@@ -25,7 +25,7 @@ from Utils.data_integration import SheetMerger
 
 #######################################################################################################
 ### MODULES
-
+from Modularization.plot_gantt import create_gantt_chart, gantt_input_data
 
 
 #######################################################################################################

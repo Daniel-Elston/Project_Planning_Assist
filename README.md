@@ -2,11 +2,15 @@
 
 ---
 
-# Gantt Chart Generator 
+<h1 align='center'> Gantt Chart Generator  </h1>
+
 
 ---
 
 ## Example
+What cannot be shown in the example is the interactive Plotly design.
+For example, when hovering over the 'Preprocessing' bar, I can see the stage name, hours spent and hours saved.
+
 ![Issue loading Image](gantt_chart_example.png)
 
 
