@@ -1,6 +1,6 @@
 # Copy to top of each Module.py or Utility.py
 project_name = 'Project_Planning_Assistant'
-dependencies_path = f'C:/Users/delst/OneDrive/Desktop/Code/Workspace/{project_name}/Libraries/dependencies.py'
+dependencies_path = f'{project_name}/Libraries/dependencies.py'
 with open(dependencies_path, 'r') as file:
     code = file.read()
     exec(code)
