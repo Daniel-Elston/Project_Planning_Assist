@@ -1,6 +1,6 @@
 # Copy to top of each Module.py or Utility.py
-project_name = 'Obsolescence_Predictions'
-dependencies_path = f'C:/Users/delst/OneDrive/Desktop/Code/Workspace/{project_name}/Libraries/dependencies.py'
+project_name = ''
+dependencies_path = f'{project_name}/Libraries/dependencies.py'
 with open(dependencies_path, 'r') as file:
     code = file.read()
     exec(code)
